@@ -6,3 +6,4 @@ Files contained into the repository:
 3. EmotionsRecognizerWithBert
 4. EmotionsRecognizerWithClassicalApproaches
 5. movie_analysis: this notebook uses the model created in EmotionsRecognizerWithBert (which generates a directory '/model' that contains model's configuration). Thus this notebook must be esecuted after 'EmotionsRecognizerWithBert'.
+6. Emotion_profile_analysis_on_movies (1).pdf: presentation
